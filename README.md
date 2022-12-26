@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sofiathelima
 - 👀 I’m interested in Computational Biology
 - 🌱 I’m currently learning deep learning architectures for computer vision applications
-- 💞️ I’m looking to collaborate on bioimage informatics projects
+- 💞️ I’m looking to collaborate on artificial intelligence projects
 - 📫 How to reach me slima2@andrew.cmu.edu
 
 <!---
