@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sofiathelima
-- 👀 I’m interested in Computational Biology
-- 🌱 I’m currently learning deep learning architectures for computer vision applications
-- 💞️ I’m looking to collaborate on artificial intelligence projects
-- 📫 How to reach me slima2@andrew.cmu.edu
+- 💞️ I’m interested in Computational Biology
+- 🌱 I’m currently working on graph neural networks with datasets representing structural information
+- 👀 I’m looking to collaborate on computational geometry projects related to registration for statistical shape analysis
+- 📫 How to reach me slima2@alumni.cmu.edu
 
 <!---
 sofiathelima/sofiathelima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
