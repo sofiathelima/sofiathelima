@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sofiathelima
 - 💞️ I’m interested in Computational Biology
-- 🌱 I’m currently working on machine learning methods for encoding mesh datasets
+- 🌱 I’m currently working on web development and data analysis with graphs
 - 👀 I’m looking to collaborate on computational geometry projects related to registration for statistical shape analysis
 - 📫 How to reach me slima2@vt.edu
 
