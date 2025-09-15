@@ -2,7 +2,7 @@
 - 💞️ I’m interested in Computational Biology
 - 🌱 I’m currently working on web development and data analysis with graphs
 - 👀 I’m looking to collaborate on computational geometry projects related to registration for statistical shape analysis
-- 📫 How to reach me slima2@vt.edu
+- 📫 How to reach me sofia.lima@irbbarcelona.org
 
 <!---
 sofiathelima/sofiathelima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
